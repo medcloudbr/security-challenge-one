@@ -1,4 +1,4 @@
-# Desafio: Análise de Vulnerabilidade de Rede
+# Challenge: Network Vulnerability Analysis
 
 ![logo medcloud-03 white copy](https://user-images.githubusercontent.com/46347123/158176045-de9fefb0-35e2-4515-83ff-c132608aa870.png)
 
@@ -13,25 +13,25 @@ Since our foundation, almost 10 years ago, we have prioritized excellence in the
 
 We understand that behind each medical record there is a patient seeking to improve his health and the hope of family members for his well being. After all, we are all patients, and Medcloud's mission is to help you live longer and better. #PatientFirst
 
-## Objetivo
+## Goal
 
-- Você é responsável por avaliar a segurança da rede da empresa. Sua tarefa é realizar uma análise de vulnerabilidade em uma máquina específica na rede e relatar as descobertas. Esta máquina é um servidor web que executa o sistema de gerenciamento de conteúdo WordPress. Sua missão é identificar e documentar qualquer vulnerabilidade ou possível brecha de segurança no servidor WordPress.
+- You are responsible for evaluating the security of your company's network. Your task is to perform a vulnerability analysis on a specific machine on the network and report the findings. This machine is a web server running the WordPress content management system. Its mission is to identify and document any vulnerability or possible security breach in the WordPress server.
+- 
+## Required
 
-## Instruções
+- Access a WordPress server chosen by you.
+- Run a security scan to identify potential vulnerabilities in your WordPress configuration.
+- Document all findings, including information about any vulnerabilities found, their severities, and steps for mitigation.
+- Make sure the analysis is done in a non-intrusive way, that is, without making changes to the server or website.
+- Present your findings in a written report, including a brief explanation of how each vulnerability could be exploited and recommendations for fixing them.
+- 
+## What will be evaluated:
 
-- Acesse um servidor WordPress escolhido por você.
-- Execute uma análise de segurança para identificar possíveis vulnerabilidades na configuração do WordPress.
-- Documente todas as descobertas, incluindo informações sobre quaisquer vulnerabilidades encontradas, suas gravidades e as etapas para mitigação.
-- Certifique-se de que a análise seja feita de maneira não intrusiva, ou seja, sem fazer alterações no servidor ou no site.
-- Apresente suas descobertas em um relatório escrito, incluindo uma breve explicação de como cada vulnerabilidade poderia ser explorada e as recomendações para corrigi-las.
-
-## O que será avaliado:
-
-- Identificar vulnerabilidades comuns em servidores web WordPress.
-- Documentar claramente suas descobertas.
-- Propor soluções ou medidas de mitigação para as vulnerabilidades encontradas.
-- Comunicar suas descobertas de forma concisa e eficaz através do relatório de Análise de Vulnerabilidade.
-
+- Identify common vulnerabilities in WordPress web servers.
+- Clearly document your findings.
+- Propose solutions or mitigation measures for the vulnerabilities found.
+- Communicate your findings concisely and effectively through the Vulnerability Analysis report.
+- 
 ## Delivery
 
 You MUST clone this repository to your own private repository and push your code to it. DO NOT FORK THIS REPOSITORY.
