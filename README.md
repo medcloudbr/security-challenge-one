@@ -15,8 +15,8 @@ We understand that behind each medical record there is a patient seeking to impr
 
 ## Goal
 
-- You are responsible for evaluating the security of your company's network. Your task is to perform a vulnerability analysis on a specific machine on the network and report the findings. This machine is a web server running the WordPress content management system. Its mission is to identify and document any vulnerability or possible security breach in the WordPress server.
-- 
+You are responsible for evaluating the security of your company's network. Your task is to perform a vulnerability analysis on a specific machine on the network and report the findings. This machine is a web server running the WordPress content management system. Its mission is to identify and document any vulnerability or possible security breach in the WordPress server.
+  
 ## Required
 
 - Access a WordPress server chosen by you.
@@ -24,14 +24,14 @@ We understand that behind each medical record there is a patient seeking to impr
 - Document all findings, including information about any vulnerabilities found, their severities, and steps for mitigation.
 - Make sure the analysis is done in a non-intrusive way, that is, without making changes to the server or website.
 - Present your findings in a written report, including a brief explanation of how each vulnerability could be exploited and recommendations for fixing them.
-- 
+  
 ## What will be evaluated:
 
 - Identify common vulnerabilities in WordPress web servers.
 - Clearly document your findings.
 - Propose solutions or mitigation measures for the vulnerabilities found.
 - Communicate your findings concisely and effectively through the Vulnerability Analysis report.
-- 
+ 
 ## Delivery
 
 You MUST clone this repository to your own private repository and push your code to it. DO NOT FORK THIS REPOSITORY.
