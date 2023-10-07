@@ -19,7 +19,7 @@ You are responsible for evaluating the security of your company's network. Your 
   
 ## Required
 
-- Access this WordPress server https://fernandobarreto2504815.wordpress.com .
+- Access this WordPress server https://fernandobarreto2504815.wordpress.com.
 - Run a security scan to identify potential vulnerabilities in your WordPress configuration.
 - Document all findings, including information about any vulnerabilities found, their severities, and steps for mitigation.
 - Make sure the analysis is done in a non-intrusive way, that is, without making changes to the server or website.
